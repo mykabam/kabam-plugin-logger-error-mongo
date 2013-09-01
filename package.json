@@ -1,0 +1,28 @@
+{
+  "name": "kabam-plugin-logger-error-mongo",
+  "version": "0.0.1",
+  "description": "Kabam plugin to log error into mongo database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mykabam/kabam-plugin-logger-error-mogno.git"
+  },
+  "keywords": [
+    "kabam",
+    "plugin",
+    "logger",
+    "error",
+    "mongo"
+  ],
+  "author": "Anatolij Ostroumov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mykabam/kabam-plugin-logger-error-mogno/issues"
+  },
+  "dependencies":{
+    "colors":"*"
+  }
+}
