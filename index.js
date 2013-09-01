@@ -11,7 +11,7 @@ exports.model = {
     "ip": String,
     "uri": {type: String, match: /\/.*/},
     "username": {type: String, default: null},
-    "email":  {type: String, default: null}
+    "email":  {type: String, default: null},
     "error": String
   });
 
